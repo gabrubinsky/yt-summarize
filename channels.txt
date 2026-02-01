@@ -1,0 +1,11 @@
+# Add your YouTube Channel IDs or RSS Feed URLs here, one per line.
+#
+# To find a Channel ID:
+# 1. Go to the channel page (e.g., https://www.youtube.com/@Veritasium)
+# 2. View Page Source (Right-click -> View Page Source)
+# 3. Search for "channel_id=" or "externalId"
+# 4. It will look like "UCHnyfMqiRRG1u-2MsSQLbXA"
+#
+# Example:
+# UCHnyfMqiRRG1u-2MsSQLbXA
+# https://www.youtube.com/feeds/videos.xml?channel_id=UC...
